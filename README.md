@@ -1,6 +1,6 @@
-## Your Name
+## Muhammad Hamza Mehmood
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a 19-year-old junior full stack software developer with a passion for coding and a relentless drive to expand my horizons. Technology has always fascinated me, and I consider myself incredibly fortunate to have found my calling in the dynamic world of software development. From a young age, I've been captivated by the power of technology to solve complex problems and make the world a better place. I embarked on this incredible journey at an early age, teaching myself the fundamentals of programming and web development through online resources and hands-on projects. This self-guided learning not only gave me a solid foundation but also instilled in me a sense of curiosity and determination to keep pushing boundaries. Currently in my junior years, I am eager to gain real-world experience and work alongside seasoned professionals to learn from their expertise. My goal is to become a well-rounded and versatile full stack developer, proficient in both front-end and back-end technologies. I believe that understanding the entire development stack allows me to create seamless, intuitive, and efficient applications that resonate with users.
 
 ## Projects
 
