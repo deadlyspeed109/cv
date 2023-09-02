@@ -11,10 +11,15 @@ I am a 19-year-old junior full stack software developer with a passion for codin
 
 ## Work Experience
 a
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Lowndes Global** (July 2021 to August 2021)  
+_Temporary Web Developer_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Developed and implemented web applications using HTML5, CSS3, JavaScript, and jQuery, ensuring an optimised user
+experience to meet business objectives.
+-Achieved 80% faster page load time improvement and 20% performance increase on client-side operations by refactoring
+code base.
+-Minimised website maintenance needs by 50%, through error debugging and component optimisation.
+-Verified and tested code for accuracy, conformance, and proper web standards.
 
 **Company Name** (start-date to end-date)  
 _Your job title_
@@ -45,20 +50,14 @@ I honed my communication skills while completing my thesis at university, which 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (July 2023 to November 2023)
+Software development bootcamp focused on object-oriented design, Agile methodologies, test-driven development
+and pair programming
 
-#### Your University / College (start_date to end_date)
+#### Riddlesdown Collegiate (2020-2022)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Computer Science, Business, Economics
+- CCC
 
 #### Any other qualifications
 
